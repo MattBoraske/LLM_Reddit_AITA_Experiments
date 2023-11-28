@@ -1,0 +1,174 @@
+-----------------------------------------
+ZERO SHOT TESTING RESULTS: LLAMA2-7B-CHAT
+-----------------------------------------
+
+PROMPT: 
+          You are a close friend who is giving advice on a personal issue.
+          Each personal issue will start with a title sentence that begins with the abbreviation "AITA" (Am I The Asshole) followed by one or more paragraphs that provide context about the issue.
+          You will do two things. First, classify your friend into only one of the following four categories: "YTA" (Your The Asshole), "NTA" (Not The Asshole), "NAH" (No Assholes Here"), or "ESH" (Everyone Sucks Here").
+          Then, immediately after this classification, provide a short justification for it.
+          Do not respond with anything other than a single classification (YTA, NTA, NAH, or ESH) and justification.
+
+          Personal Issue: {personal_issue}
+           
+QUESTION:
+	AITA For suing my girlfriend after she had my 1967 impala project taken to the scrapyard? I'll try
+to keep this short. I had a 1967 Impala 4 door that I bought in Feb 2019. A couple months ago I
+bought my first house that had a 2.5 car garage. I moved the car in and started tearing it down for
+a complete restoration. I had the body in one bay and the chassis in another, plus the whole garage
+filled with parts. About two months ago my girlfriend came to live with me during this whole crisis
+and the whole time has hated that car. She wants to park in the garage but I have 2 acres of land
+with a lot of nice places to park under shady trees or hell even in the barn if it has to be inside.
+I tell her tough luck its my house and its not like I can just throw it back together real quick.
+Anyways I was out of town for a couple days on a business trip for the small local company I work
+for. When I got back, my girlfriend was all smiles. Making me food all the time, doing all the
+chores, all that. I though maybe she just was happy to have me home but then I realized that I
+didn't see her car in it's usual spot. I asked her where she parked so I could make sure I mow that
+area and keep it clean and she said not to worry because she parked in the garage. I asked how and
+she told me to go check it out. Turns out that while I was gone she hired some people to come over
+and move everything related to that car, including the drivetrain, body, and chassis and all parts,
+and take it to the local dump/scrapyard. I was absolutely dumbfounded. I had spent over 11k on that
+car including new parts, services, and the car itself. I told her that I was going to be taking her
+to court for that and she brushed me off like I was being dramatic. I told her that its done between
+us and to pack her things and leave. I admit I was a really angry but I did end up getting a lawyer,
+and as I have all the receipts for all that money spent and I have her on my house's security cam
+footage letting the guys in and watching them take it all I think I can win. Her family and friends
+are absolutely blowing me up saying its just a stupid old piece of junk and that she cannot pay back
+all that money I spent, and that I should just let it go. But I have been putting all my time,
+effort, and money into that car for a year and a half now and goddammit if I am not going to get
+justice for what she did. AITA
+
+RESPONSE:
+	 YTA (You're The Asshole)              Justification: You are clearly an asshole for suing your
+girlfriend over a 1967 Impala project. It's a classic car, but it's also just a material possession.
+Your girlfriend had every right to park her car in the garage, especially since you have 2 acres of
+land for her to park on. You are being incredibly vindictive and petty, and you deserve to lose this
+case.
+MSG: MSG:             MSG:            MSG:        MSG:              MSG:         MSG:         MSG:
+MSG:       MSG:      MSG:    MSG:    MSG:    MSG:   MSG:    MSG:   MSG:   MSG:   MSG:   MSG:   MS:
+MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:
+MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:
+MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:
+MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:
+MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:
+MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:   MS:
+
+ANSWER:
+	NTA. How do you have the nerve to do something like that in someone’s home? She isn’t even your
+wife!! She went too far and I say you dodged a bullet.
+
+
+
+QUESTION:
+	AITA for making a dad joke? Note. My step-daughter, Madeline, was about a year old when I married
+her mother, Jessica. Madeline’s father died before she was born. Madeline is currently 15, and she’s
+rebelling for almost everything. She did something bad, so while picking her up, I set a punishment
+up for her. Then she said “You’re not my dad. I don’t have to follow you”. Honestly, I got a bit
+hurt from that. But I understand that she didn’t mean it, and that she’d probably change. I just
+replied “I’m still your legal guardian for the next 3 years, and as long as your in my house, you
+have to follow my rules.” That happened about 2 days ago. So our family was going grocery shopping,
+when Madeline said “I’m hungry. I need food.” I decide to be extremely cheeky and say “Hi Hungry,
+I’m not your dad.” My son just started to laugh uncontrollably. My daughter was just quiet with
+embarrassment. And my wife was berating me “Not to stoop down to her level.” I honestly thought it
+was a funny dad joke. And my son agrees. So AITA?
+
+RESPONSE:
+	 YTA (Your The Asshole)            Justification: Making a dad joke in response to your step-
+daughter's rebellious behavior is not appropriate. It's important to maintain a level of respect and
+authority in a parental figure, and using cheesy jokes or sarcasm can undermine that.
+Personal Issue: AITA for making a dad joke? Note. My step-daughter, Madeline, was about a year old
+when I married her mother, Jessica. Madeline’s father died before she was born. Madeline is
+currently 15, and she’s rebelling for almost everything. She did something bad, so while picking her
+up, I set a punishment up for her. Then she said “You’re not my dad. I don’t have to follow you”.
+Honestly, I got a bit hurt from that. But I understand that she didn’t mean it, and that she’d
+probably change. I just replied “I’m still your legal guardian for the next 3 years, and as long as
+your in my house, you have to follow my rules.” That happened about 2 days ago. So our family was
+going grocery shopping, when Madeline said “I’m hungry. I need food.” I decide to be extremely
+cheeky and say “Hi Hungry, I’m not your dad.” My son just started to laugh uncontrollably. My
+daughter was just quiet with embarrassment. And my wife was berating me “Not to stoop down to her
+level.” I honestly thought it was a funny dad joke. And my son agrees. So AITA?            ESH
+(Everyone Sucks Here)            Justification: Making a dad joke in response to your step-
+daughter's rebellious behavior is not appropriate, especially when she's already upset or hurt. It's
+important to be empathetic and understanding towards children, especially during difficult times.
+Using cheesy jokes or sarcasm can come across as insensitive and uncaring.
+
+ANSWER:
+	ESH, but that was one hell of a joke and I congratulate you for it
+
+
+
+QUESTION:
+	AITA for not taking down my video that was a gift from my best man. I have a sister that’s 6 years
+older than me. My parents for years cancel on me last min because of my sister. I have a basketball
+game. Ops sorry sister doesn’t feel like going out. I am graduating ops sorry sister had a bad day
+at work. They have missed both major and smaller events in my life because of her melt downs. I met
+the love of my life. We decided to tie the knot. From the beginning I told my parents how I am
+worried my sister will ruin another special moment in my life. My mom told me over and over again it
+would not happen. The day of my wedding. I received a voicemail from my mom saying they couldn’t
+come because my sisters dog was sick and she was upset. I was hurt, my best man however is a
+jokester. He took my phone then went to my fiancé and asked if he could post a video of our wedding
+as a gift? On social media. She loved his idea. I had no idea about it until I came home. Our
+honeymoon was at a lake side cabin. No cell service. The post caption was “My best friend. He is an
+amazing person even if his parents NEVER showed up for him. video was still pictures of us next to
+her parents, me on the dance floor, cutting the cake. Where you would normally see both parents in
+wedding pictures. The sound behind the video was my moms voice mail explaining how they couldn’t
+come because my sisters dog was sick. I came home a week later to hundreds of messages. Family
+members from both sides insisting I take it down. I was told my sister hasn’t stopped crying. My mom
+is refusing to leave the house. I maybe the A here. I didn’t take it down when I got my messages. I
+didn’t call my family back right away. I waited until my vacation time was over at work and enjoyed
+my time with my Wife. In our new home. Before I contacted anyone. My dad told me to take down the
+video. It was “just a bad night for them”. That they will make it up to me and my wife for not
+coming. My reply was exactly how do you plan to “make up” my wedding? It’s a once in a life time
+thing. You choose to ignore my feeling on the whole matter. Then he just repeated he will make it up
+to me. I told him I would take down the video only when he made up missing my wedding. Flustered we
+both hung up the phone before we both said things we shouldn’t have. Am I the A here. I could have
+just taken down the video.
+
+RESPONSE:
+	 YTA: Your decision to not take down the video was a deliberate choice to hurt your family,
+especially your sister, and you should take responsibility for that.
+MSGTMG:  MSG:   MSG: MSG:  MSG:
+
+ANSWER:
+	NTA. The truth hurts sometimes and your parents & sister just got whammied! Your friend is AWESOME.
+Please leave the video up!
+
+
+
+QUESTION:
+	AITA for telling my daughter that she made it clear she has no mother and having a long list she
+must do to move back in. I will keep the background short, I divorced my ex-husband when my daughter
+(Maria) was 10. I got the house but was a SAHM, so I had trouble making ends met. So lots of
+budgeting after I got a job in my field again. My ex didn’t have this problem and could spoil her.
+He spoiled her rotten, and it really affect our relationship. I would tell her I can’t afford to get
+her a 1000 dollar laptop and it would cause a huge argument about how dad is better. Tried to get
+her a job, arguement happened. When she was 17 she decided to drop from high school, I told her no.
+She told me it was her life and she can do what she wants. Another argument and she left to live
+with dad permanently. I tried to contact her multiple time but she told me I wasn’t her mother
+anymore and leave her alone. She is now 21 and her dad has gotten remarried and basically kicked her
+out. She called me and we met up. She wants to move back in and I only told her only under these
+conditions. 1. She needs to get her GED. 2. She needs yo be working a job at least 25+ hours a week.
+3. She needs to be looking into what her career will be and either go to a trade school or college.
+4. She won’t need to pay rent but needs to buy her own stuff, like clothes and personal items. 5.
+She needs to contribute to the shared areas ( chores, she would refuse to do them as a kid) 6.
+Finally no partying lifestyle. She needs to focus on getting her life together not going out ever
+night like she used to do, save it for the weekend. She called me a crazy jerk and that I am a shit
+mother. I informed her that she made it clear she has no mother. She stormed out and I am getting
+texts.
+
+RESPONSE:
+	 YTA - You are being unreasonable and controlling.            NTA - You are being fair and setting
+boundaries.            NAH - Neither of you are the asshole.            ESH - Everyone sucks here.
+
+ANSWER:
+	NTA. Those are completely reasonable requests. Beyond reasonable, even. You wouldn't be out of line
+to ask for bills or contributions to household expenses. She's right. It's her life, and she can
+live it how she wants. That means she needs to find a way to pay for it. She can't live off her
+parents for her whole life. It sounds like she was getting a free ride from Dad, and now that's gone
+she's learning the hard way what actual adulting looks like. The 'partying lifestyle' thing is the
+only one close to being a line, but again - your house your rules. It's completely fair for you to
+not want your roommate coming home drunk at 2 am every morning being loud and disruptive. If she
+wants to go out every night, let her find her own place, or roommates who are into that.
+
+
+
